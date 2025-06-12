@@ -1,0 +1,14 @@
+# Scala/SBT
+target/
+.bsp/
+.idea/
+*.class
+*.log
+
+# Environment variables and secrets
+.env
+*.conf.local
+
+# Project-specific
+data/
+results/ 

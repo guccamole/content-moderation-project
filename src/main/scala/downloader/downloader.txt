@@ -1,0 +1,3 @@
+I had a trivial script here to handle the download.
+
+Easy to get file from url = "https://raw.githubusercontent.com/hate-alert/HateXplain/master/Data/dataset.json"
