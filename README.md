@@ -80,7 +80,7 @@ sbt compile
 sbt "runMain TestHateXplainApp"
 ```
 
-You can modify `NumTweetsToTest` in TestHateXplainApp.scala to process more tweets at once.
+You MUST modify `NumTweetsToTest` in TestHateXplainApp.scala to process more tweets at once. I have it set to 1 right now fyi.
 
 ## Project Structure (used AI to make it pretty)
 
